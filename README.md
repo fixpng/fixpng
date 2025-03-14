@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">👋 Hello! I'm FIXPNG.</h2>
+<!-- <h2 align="center">👋 Hello! I'm FIXPNG.</h2> -->
 <!-- <h5 align="center">
   <a href="https://nano.ac/">Blog</a>
   &emsp;•&emsp;
@@ -72,7 +72,6 @@ Here are some ideas to get you started:
       </picture>
     </a></td>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<!-- UTC +8.00 好怪，等有空改成 UTC +08:00 -->
       <picture>
         <source
           srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=fixpng&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
@@ -83,5 +82,5 @@ Here are some ideas to get you started:
         <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=fixpng&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
       </picture>
     </a></td>
-  </tr>
+  </tr> 
 </table>
